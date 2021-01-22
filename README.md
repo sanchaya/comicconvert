@@ -10,3 +10,7 @@ Reading comics in PDF format is useful when trying to read on devices without th
 TIP: If you are using the nautilus file manager, place a copy of the script in `~/.local/share/nautilus/scripts` to be able to run comicconvert without using the command line.
 
 This program requires  `img2pdf`. you can install it on ubuntu and bash on windows by running `sudo apt install img2pdf`.
+
+#Installation Inscrutions for MacOSx - tested on Bigsur
+
+Pre-requisites - pip3 install img2pdf
